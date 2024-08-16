@@ -18,12 +18,6 @@
 ### Requirements
 ##### Power BI Desktop is required to view and interact with the .pbix file.
 
-### Usage
-##### Clone the repository to your local machine using the following command:
-##### git clone https://github.com/yourusername/sales-analysis-dashboard.git
-##### Open the Adventure Sales Analysis.pbix file in Power BI Desktop.
-##### Explore the various tabs and visualizations to gain insights into the sales data.
-
 ### Future Enhancements
 ##### Integration of additional data sources to provide a more comprehensive analysis.
 ##### Implementation of advanced analytics features such as predictive modeling and what-if scenarios.
