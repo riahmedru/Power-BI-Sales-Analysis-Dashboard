@@ -1,5 +1,5 @@
 # Power-BI-Sales-Analysis-Dashboard
-[Sales Analysis.pdf](https://github.com/user-attachments/files/16641072/Sales.Analysis.pdf)
+<img width="662" alt="Screenshot_13" src="https://github.com/user-attachments/assets/4552daa4-4011-42a9-988a-f970f46d7f6c">
 
 ### Overview
 ##### The dashboard is designed to provide insights into the sales performance of a company, highlighting key metrics, trends, and data visualizations to aid in decision-making.
